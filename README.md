@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi there 👋
+
+This is **SunnyHUB** Engineering profile on **Github** 🧑‍💻.
+
+## Our structure
+
+Despite our whole "@sunnyhub.com.br" domain configuration is inside _Microsoft Azure_, our logic structure is built over the **AWS**.
+
+## Partners Directory
+Is a AWS Amplify that is connected to the **PartnersDirectory** repository
 
 <!--
 **EngSunnyHUB/EngSunnyHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
